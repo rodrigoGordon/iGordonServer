@@ -1,8 +1,8 @@
 DEBUG = False
 TESTING = False
 
-COUCH_SERVER = 'adamvig.cloudant.com'
-COUCH_DB_NAME = 'gocostudent'
+COUCH_SERVER = 'rodrigoigordon.cloudant.com'
+COUCH_DB_NAME = 'igordondb'
 
 WENHAM_LATITUDE = 42.587576
 WENHAM_LONGITUDE = -70.824631
